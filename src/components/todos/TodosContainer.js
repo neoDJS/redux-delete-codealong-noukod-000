@@ -19,7 +19,7 @@ mapStateToProps = state => {
   return {
     todos: state.todos
   }
-} 
+}
 
 const mapDispatchToProps = dispatch => {
   return {
